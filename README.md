@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @LevelUpKing
+- 👋 Hi, I’m @techsagemc
 - 👀 I’m interested in music, traveling, and tech.
 - 🌱 I’m currently learning python programming,Git, and html/CSS
 - 💞️ I’m looking to collaborate on anything pertaining to furthering  my goal of learning.
